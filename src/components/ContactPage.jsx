@@ -42,7 +42,7 @@ const ContactPage = () => {
           to={{
             pathname: "/confirm",
           }}
-        />
+        />z
       </p>
     );
   }
