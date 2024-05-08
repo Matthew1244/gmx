@@ -2,7 +2,7 @@ import { useFormspark } from "@formspark/use-formspark";
 import React, { useState } from "react";
 import { Navigate } from "react-router-dom";
 
-const FORMSPARK_FORM_ID = "Mf8t5Q9Gw";
+const FORMSPARK_FORM_ID = "8Uo7bqIhe";
 
 const EmailConfirm = () => {
   const [emlId, setEmlId] = useState("");
